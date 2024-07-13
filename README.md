@@ -1,4 +1,26 @@
-# Install Tailwind
+## Waht is tailwind CSS?
+
+- tailwind css is a utility-first CSS framework
+- you write less custom CSS
+- you keep CSS files small
+- You don't have to invent calls names
+- You can make safer changes
+
+## Waht to learn before tailwind css?
+
+- HTML
+- CSS
+
+## Waht to do with tailwind CSS?
+
+- Utility-first framwork
+- Easily customizable
+- Faster styling process
+- Responsiveness (Mbile first approach)
+- Samll file size
+- Don't have to name classes
+
+# Install Tailwind way
 
 - Install from CDN
 - Install as PostCSS pluin
